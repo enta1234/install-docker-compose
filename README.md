@@ -62,7 +62,7 @@ sudo systemctl status docker
 
 You should see an output indicating that Docker is active (running).
 
-**Step 4: Install Docker Compose**
+**Step 4: Install Docker Compose (for old docler version)**
 
 Download the latest Docker Compose release:
 
