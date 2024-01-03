@@ -41,7 +41,7 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 Enable the Docker repository:
 
 ```bash
-sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 ```
 
 **Step 3: Start and verify Docker service**
